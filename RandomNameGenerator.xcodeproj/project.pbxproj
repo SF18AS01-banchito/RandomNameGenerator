@@ -14,6 +14,7 @@
 		96B037D021E5135000170429 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 96B037CE21E5135000170429 /* LaunchScreen.storyboard */; };
 		96B037DB21E5135000170429 /* RandomNameGeneratorTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 96B037DA21E5135000170429 /* RandomNameGeneratorTests.swift */; };
 		96B037E621E5135000170429 /* RandomNameGeneratorUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 96B037E521E5135000170429 /* RandomNameGeneratorUITests.swift */; };
+		96B037F421E5142D00170429 /* yob2017.txt in Resources */ = {isa = PBXBuildFile; fileRef = 96B037F321E5142D00170429 /* yob2017.txt */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -47,6 +48,7 @@
 		96B037E121E5135000170429 /* RandomNameGeneratorUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = RandomNameGeneratorUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		96B037E521E5135000170429 /* RandomNameGeneratorUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = RandomNameGeneratorUITests.swift; sourceTree = "<group>"; };
 		96B037E721E5135000170429 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		96B037F321E5142D00170429 /* yob2017.txt */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; name = yob2017.txt; path = ../../../../yob2017.txt; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -102,6 +104,7 @@
 				96B037C921E5134E00170429 /* Main.storyboard */,
 				96B037CC21E5135000170429 /* Assets.xcassets */,
 				96B037CE21E5135000170429 /* LaunchScreen.storyboard */,
+				96B037F321E5142D00170429 /* yob2017.txt */,
 				96B037D121E5135000170429 /* Info.plist */,
 			);
 			path = RandomNameGenerator;
@@ -230,6 +233,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				96B037D021E5135000170429 /* LaunchScreen.storyboard in Resources */,
+				96B037F421E5142D00170429 /* yob2017.txt in Resources */,
 				96B037CD21E5135000170429 /* Assets.xcassets in Resources */,
 				96B037CB21E5134E00170429 /* Main.storyboard in Resources */,
 			);
